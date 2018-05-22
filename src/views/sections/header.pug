@@ -1,0 +1,39 @@
+header
+	.header
+		.heder__logo
+
+			h1 
+				.bold-text monobank | 
+				.light-text Web
+
+		.header__rates
+
+			-
+				var exchangeRates = [
+					{
+						currency: 'USD',
+						par: '27,23'
+					},
+					{
+						currency: 'EUR'
+						par: '32,60'
+					},
+					{
+						currency: 'BTC',
+						par: '250 648'
+					}
+				]
+
+				each item in exchangeRates
+					li.header__rates-item
+						a(href='#')= item.currency + ' ' + item.par
+						
+
+
+		.header__tabs
+
+			//- 
+
+		.header__search
+
+			//- 

@@ -1,0 +1,49 @@
+{
+  "name": "cypherglass",
+  "version": "1.0.0",
+  "description": "SharedCount",
+  "main": "index.js",
+  "scripts": {
+    "-----Development-----": "",
+    "dev": "NODE_ENV=development gulp",
+    "-----Production-----": "",
+    "build": "NODE_ENV=production gulp",
+    "-----Others-----": "",
+    "lint": "eslint src"
+  },
+  "repository": "git+https://github.com/alexeyvakarchuk/cypherglass.git",
+  "author": "Alexey <alexeyvakarchuk@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeyvakarchuk/cypherglass/issues"
+  },
+  "homepage": "https://github.com/alexeyvakarchuk/cypherglass#readme",
+  "dependencies": {
+    "@glidejs/glide": "^3.0.0",
+    "animejs": "^2.2.0",
+    "bootstrap": "^4.1.1",
+    "lottie-web": "^5.1.13",
+    "require-dir": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.2",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "browser-sync": "^2.23.6",
+    "eslint": "^4.19.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-cli": "^2.0.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.2.1",
+    "gulp-util": "^3.0.8",
+    "node-notifier": "^5.2.1",
+    "node-sass": "^4.8.3",
+    "node-sass-tilde-importer": "^1.0.2",
+    "webpack": "^4.3.0"
+  }
+}

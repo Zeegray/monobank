@@ -1,0 +1,22 @@
+# dependencies
+node_modules/*
+package-lock.json
+
+# testing
+coverage
+jest
+
+# IntellijIdea files
+*.iml
+.idea
+
+# production
+build
+static
+dist
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+/.idea/*

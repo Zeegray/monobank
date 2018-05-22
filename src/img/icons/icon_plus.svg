@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon +</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design-V1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03.1-ShareCount-FAQ--(no-login)" transform="translate(-300.000000, -296.000000)" fill="#3D5FC3">
+            <g id="Q-A" transform="translate(270.000000, 267.000000)">
+                <g id="Question-block-1">
+                    <path d="M36,35 L36,29 C36.5357161,29.0455576 36.9880925,29 38,29 C38.0833361,29 38.5119032,29.0455576 39,29 L39,35 L45,35 C44.9523814,34.822326 44.9523814,38.2687907 45,38 L39,38 L39,44 C38.5119032,43.9544424 38.0833361,44 38,44 C36.9880925,44 36.5357161,43.9544424 36,44 L36,38 L30,38 C30.0476186,38.4054656 30.0476186,34.6173136 30,35 L36,35 Z" id="Icon-+"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
